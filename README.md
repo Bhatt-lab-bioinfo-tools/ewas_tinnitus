@@ -1,4 +1,4 @@
-# ewas_tinnitus
+# EWAS Tinnitus pipeline
 
 This repository contains the source code for the analysis performed in the manuscript entitled "DNA Methylation Patterns Associated with Tinnitus in Young Adults – A Pilot Study" by Bhatt et al.
 
